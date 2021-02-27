@@ -20,7 +20,7 @@ Color decisions:
 ## References
 [Processing documentation](https://processing.org/reference/)
 ## Application demonstration
-[Link to the gif]()
+[Link to the gif](https://github.com/Samuel-AQ/Revolution-surface/blob/master/data/example-gif.gif?raw=true)
 ## Other information
 * Author: Samuel Arrocha Quevedo
 * Version: 27/02/2021 1.0
