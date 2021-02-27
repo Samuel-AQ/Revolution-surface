@@ -32,9 +32,9 @@ void setup() {
 
 void draw() {
   drawBackground();
-  
   if(error) {
     showError(errorMessage);
+    saveFrame ("../data/fotograma−####.png" );
     return;
   }
   
@@ -49,6 +49,7 @@ void draw() {
   } else {
     showInfoScreen();
   }
+  saveFrame ("../data/fotograma−####.png" );
 }
 
 void drawBackground() {
