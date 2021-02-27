@@ -14,7 +14,7 @@ The code tries to create vertices according to the points drawed by the user cre
 Through all the development it was primary target to write easy to read code in order to add information avoiding the overuse of comments.
 Following the Jakob Nielsen principles I tried to create an application that is easy to use, makes the user feel the control at every moment, feels pretty, minimalist and enjoyable,
 helps the user in every moment they need it and prevent the errors in case the could happen telling the user how to fix them.
-Color decisitions:
+Color decisions:
 * The red color has been kept to inform the user about possible errors
 * The blue color has been picked in order to make the user feel like everything they're doing is ok as it's present in mostly of the application
 ## References
